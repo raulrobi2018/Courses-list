@@ -1,4 +1,4 @@
-# Courses-list
+# Courses List Client
 ### Simple list, add, delete using Bootstrap, NodeJS, Express and MongoDB
 #### How it works
 This is a simple add, delete and list example using Bootstrap, NodeJS, Express and, MongoDB.
@@ -8,4 +8,8 @@ To delete an element, click on the trash button of each row in the table list.\
 \
 The list will automatically reload after add or delete an element.
 #### Install
-Clone or download the project in a preferred location
+1. Clone or download the project in a preferred location
+2. Go to a command line and in the *Courses list client* location type **npm install**
+3. Type **npm start**
+\
+>**Note:** You need to have installed and running the Courses List Server before.
