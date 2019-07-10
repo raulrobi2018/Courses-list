@@ -12,4 +12,6 @@ The list will automatically reload after add or delete an element.
 2. Go to a command line and in the *Courses list client* location type **npm install**
 3. Type **npm start**
 \
->**Note:** You need to have installed and running the Courses List Server before.
+>**Note 1:** You need to have installed and running the Courses List Server before.\
+\
+>**Note 2:** You need to enable CORS in the browser, so you will need to install some CORS plugin.
