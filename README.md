@@ -15,4 +15,4 @@ The list will automatically reload after add or delete an element.
 >**Note 1:** You need to have installed and running the Courses List Server before.\
 \
 >**Note 2:** You need to enable CORS in the browser, so you will need to install some CORS plugin.\
-Yoy can access to the server here [Courses list server](https://github.com/raulrobi2018/Courses-list-server)
+You can access to the server here [Courses list server](https://github.com/raulrobi2018/Courses-list-server)
